@@ -1,2 +1,4 @@
 # hello-world
-chongya
+chongya,
+start to study python,
+wish to make sense of learning data analysis
